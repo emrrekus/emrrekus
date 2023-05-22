@@ -1,3 +1,4 @@
+Hi There 👋
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Game Development.<br>🤔  I am looking for help to become and get improved as a game developer<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - emrekus654@icloud.com<br>
 
